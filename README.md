@@ -29,5 +29,5 @@ _____________________________________
 <img src="/Screenshots/6.PNG" width="414" height="247"/>
 
 <b>Wasserstellen</b></br>
-<img src="/Screenshots/7.PNG" width="414" height="247"/>
+<img src="/Screenshots/7.png" width="414" height="247"/>
 <img src="/Screenshots/8.PNG" width="414" height="247"/>
