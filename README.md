@@ -1,2 +1,2 @@
 # IgNight
-2D-Spiel Jump'n'Run als Flamme
+2D Jump'n'Run Spiel als Flamme
