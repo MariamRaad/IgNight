@@ -19,3 +19,7 @@ _____________________________________
 
 <b>Hauptmenü</b></br>
 <img src="/Screenshots/1.PNG" width="414" height="247"/>
+
+<b>Collectables & Consumables</b></br>
+<img src="/Screenshots/2.PNG" width="414" height="247"/>
+<img src="/Screenshots/3.PNG" width="414" height="247"/>
