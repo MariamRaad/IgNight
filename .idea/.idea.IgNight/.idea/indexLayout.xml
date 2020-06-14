@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelUserStore">
+    <attachedFolders />
+    <explicitIncludes>
+      <Path>Library/PackageCache/com.unity.2d.common@1.1.0-preview.2</Path>
+      <Path>Library/PackageCache/com.unity.2d.spriteshape@2.0.0-preview.8</Path>
+      <Path>Library/PackageCache/com.unity.analytics@3.3.2</Path>
+      <Path>Library/PackageCache/com.unity.mathematics@1.0.0-preview.1</Path>
+      <Path>Library/PackageCache/com.unity.render-pipelines.core@5.7.2</Path>
+      <Path>Library/PackageCache/com.unity.shadergraph@5.7.2</Path>
+      <Path>Library/PackageCache/com.unity.textmeshpro@2.0.1</Path>
+      <Path>Library/PackageCache/com.unity.xr.legacyinputhelpers@2.0.2</Path>
+      <Path>Packages</Path>
+      <Path>ProjectSettings</Path>
+    </explicitIncludes>
+    <explicitExcludes>
+      <Path>.git</Path>
+      <Path>.idea</Path>
+      <Path>IgNight.app</Path>
+      <Path>Library</Path>
+      <Path>Logs</Path>
+      <Path>Mac</Path>
+      <Path>Temp</Path>
+      <Path>bin</Path>
+      <Path>obj</Path>
+    </explicitExcludes>
+  </component>
+</project>
