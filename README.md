@@ -22,4 +22,12 @@ _____________________________________
 
 <b>Collectables & Consumables</b></br>
 <img src="/Screenshots/2.PNG" width="414" height="247"/>
+<img src="/Screenshots/4.PNG" width="414" height="247"/>
+
+<b>Speicherpunkt</b></br>
 <img src="/Screenshots/3.PNG" width="414" height="247"/>
+<img src="/Screenshots/6.PNG" width="414" height="247"/>
+
+<b>Wasserstellen</b></br>
+<img src="/Screenshots/7.PNG" width="414" height="247"/>
+<img src="/Screenshots/8.PNG" width="414" height="247"/>
