@@ -17,4 +17,5 @@ _____________________________________
 - Sammeln von Consumables, um z.B. Leben wieder aufzufüllen
 - Ausweichen von Wasserstellen
 
-<img src="/Screenshots/1.PNG" width="552" height="330"/>
+<b>Hauptmenü</b></br>
+<img src="/Screenshots/1.PNG" width="414" height="247"/>
